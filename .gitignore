@@ -1,0 +1,15 @@
+
+node_modules/
+
+
+build/
+dist/
+
+
+.env
+
+
+*.log
+
+
+.DS_Store
